@@ -12,19 +12,19 @@ Exercises such as squats, deadlifts, and shoulder presses are beneﬁcial to hea
 ## TO RUN
 
 ### Install libraries: 
-tensorflow=1.14.0
-argparse
-dill
-fire
-matplotlib
-numba
-psutil
-pycocotools
-requests
-scikit-image
-scipy
-slidingwindow
-tqdm
+tensorflow=1.14.0 <br/>
+argparse <br/>
+dill  <br/>
+fire  <br/>
+matplotlib <br/>
+numba <br/>
+psutil <br/>
+pycocotools <br/>
+requests <br/>
+scikit-image <br/>
+scipy <br/>
+slidingwindow <br/>
+tqdm <br/>
 
 ### Demo
 
